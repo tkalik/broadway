@@ -3,6 +3,40 @@ body {
   text-align: center;
 }
 
+h1,
+a,
+.newyork,
 .footer {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.about h2 {
+    font-size: 32px;
+}
+
+.about h3 {
+  font-size: 23px;
+}
+a {
+  font-size: 18px;
+}
+
+.about p,
+.info p {
+  font-size: 14px;
+}
+
+.header,
+.newyork {
+  background-image: url("C:/projects/broadway/resources/images/background.png");
+}
+
+.footer {
+  background-color: dimgray;
   text-align: left;
+  font-size: 11px;
 }
